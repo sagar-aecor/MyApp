@@ -15,7 +15,5 @@ class MainActivity : AppCompatActivity() {
         binding.txtPackageName.text = "${getString(R.string.app_name)}\n$packageName"
         binding.txtBaseUrl.text = BuildConfig.SERVER_URL
 
-        Log.e("TAG", "v1.0")
-
     }
 }
