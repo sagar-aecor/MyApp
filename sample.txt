@@ -1,3 +1,0 @@
-Hello this is sample file, created from Git Bash
-
-- New added
